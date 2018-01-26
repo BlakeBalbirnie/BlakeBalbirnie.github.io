@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "'Putting It Off Long Enough'"
-date:       2018-01-18 16:06:05 +0000
+title:      "Putting It Off Long Enough"
+date:       2018-01-18 11:06:06 -0500
 permalink:  putting_it_off_long_enough
 ---
 
