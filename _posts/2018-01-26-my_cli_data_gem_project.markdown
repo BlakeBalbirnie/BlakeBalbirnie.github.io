@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My CLI Data Gem Project"
-date:       2018-01-26 18:24:11 +0000
+date:       2018-01-26 13:24:12 -0500
 permalink:  my_cli_data_gem_project
 ---
 
@@ -17,4 +17,8 @@ In the end though I kind of conceded to my code, as one of my final iterations o
 If you would like to take a look at my CLI program I will provide a link to it below:
 
 https://github.com/blakebalbirnie/cli-data-gem-assessment-v-000
+
+Here is a link to a walkthrough video I recorded as well:
+
+https://youtu.be/4TLRafjfId0
 
