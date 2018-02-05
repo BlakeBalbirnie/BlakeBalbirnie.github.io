@@ -16,8 +16,8 @@ Toward the end of the project I started to conceded to my code, as one of the fi
 
 If you would like to take a look at my CLI program I will provide a link to it below:
 
-https://github.com/blakebalbirnie/cli-data-gem-assessment-v-000
+[https://github.com/blakebalbirnie/cli-data-gem-assessment-v-000](http://)
 
 Here is a link to a walkthrough video I recorded as well:
 
-https://youtu.be/UZCeSO5GAEs
+[https://youtu.be/UZCeSO5GAEs](http://)
